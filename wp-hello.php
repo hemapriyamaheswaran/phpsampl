@@ -8,7 +8,7 @@
 echo " Welcome to ZippyOPS Consulting Services LLP...!! <br> ";
 date_default_timezone_set('Asia/Kolkata');
 echo " It happend just now...by tamil..  " . date("Y-m-d H:i:sa");
-echo " You are coming from zippyops...!!! ";
+echo " You are coming from salem...!!! ";
 $hostname = gethostbyaddr($_SERVER['REMOTE_ADDR']);
 echo $hostname;
 ?> 
